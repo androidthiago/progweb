@@ -1,0 +1,15 @@
+.quadro{
+	border-width: 10px;
+	border-style: solid;
+	border-color: black;
+	border-top-right-radius: 80px;
+	border-top-left-radius: 25px;
+	border-bottom-left-radius: 80px;
+	border-bottom-right-radius: 25px;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:35px;
+	padding-right:35px;
+	width: 500px;
+	background-color: silver;
+}

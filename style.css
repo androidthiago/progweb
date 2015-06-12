@@ -1,0 +1,13 @@
+.got {
+	font-size: 50px;
+	font-family: arial;
+	font-weight: bold;
+}
+
+.background{
+	background-image: url(fundo.png);
+	background-color: #C3BCBC;
+	background-image: repeat-x;
+	background-size: 19px;
+	width: 500px;
+}
